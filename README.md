@@ -18,7 +18,7 @@ This project contains a Playwright automation script for interacting with Xiaoho
 2. Start Chrome with remote debugging enabled:
    ```bash
    # For Windows
-   "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222
+   "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222
 
    # For MacOS
    /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --remote-debugging-port=9222
